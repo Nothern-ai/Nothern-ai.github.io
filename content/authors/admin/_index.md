@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mian W
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: W
+last_name: Mian
 
 # Status emoji
 status:
@@ -17,34 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://www.stanford.edu/](https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+ - Computer Vision
+ - Generative Artificial Intelligence
+ - Natural Language Processing
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Visiting Student
+      institution: University of California, Berkeley
+      year: 2025
+    - course: B.E. in Computer Engineering, 2025
+      institution: Shanghai Jiao Tong University
+      year: 2025
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +119,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student at Shanghai Jiao Tong University, currently visiting at UC Berkeley. 
+
+My research focuses on constructing capable models and dissecting their behaviors across varied computational and data frameworks. This endeavor is driven by a profound curiosity to unravel the intricacies of deep learning mechanisms and their operational principles. 
 {style="text-align: justify;"}
