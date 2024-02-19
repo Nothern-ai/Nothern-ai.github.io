@@ -3,7 +3,7 @@
 title: Mian W
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mian W
 
 # Full name (for SEO)
 first_name: W
